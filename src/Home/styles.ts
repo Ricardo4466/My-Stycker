@@ -37,7 +37,6 @@ export const styles = StyleSheet.create({
     backgroundColor: '#363636',
   },
   retry: {
-
     fontWeight: 'bold',
     color: '#fff',
     textTransform: 'uppercase',
